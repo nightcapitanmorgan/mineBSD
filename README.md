@@ -1,2 +1,2 @@
 # mineBSD
-test project
+this is just test project 
